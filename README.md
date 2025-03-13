@@ -4,7 +4,11 @@
 🎮I like developing games.<br/>
 🤔I love learning new stuff.<br/>
 
----
+## 🦝About me:
+I am a Computer Science student with a deep passion for Game Development, Software Development, and Programming. As a child, my curiosity about how video games worked sparked a lifelong quest for answers, driving me to explore the intricacies of coding and game mechanics.
+
+Beyond my technical interests, I enjoy dancing, playing with my dog, and spending quality time with my friends and family.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mario.groza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-groza-4b8054282/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mariogrozamario@gmail.com) 
