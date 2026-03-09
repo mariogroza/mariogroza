@@ -19,15 +19,10 @@
 
 ---
 
-### 📊 My Activity
+### 📊 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-main.vercel.app/api?username=mariogroza&show_icons=true&theme=shadow_green&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats-git-masterrstaa-main.vercel.app/api/top-langs/?username=mariogroza&layout=compact&theme=shadow_green&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariogroza&theme=shadow_green&hide_border=true" width="100%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=mariogroza&theme=github" alt="GitHub Contribution Graph" />
 </p>
 
 ---
