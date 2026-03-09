@@ -21,14 +21,11 @@
 
 ### 📊 My Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariogroza&theme=shadow_green&show_icons=true&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariogroza&theme=shadow_green&layout=compact&hide_border=true" width="49%" />
-</p>
+![Mario's Stats](https://github-readme-stats.vercel.app/api?username=mariogroza&show_icons=true&theme=shadow_green&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariogroza&theme=shadow_green&hide_border=true" width="100%" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariogroza&layout=compact&theme=shadow_green&hide_border=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mariogroza&theme=shadow_green&hide_border=true)
 ---
 
 ### 🌐 Connect with me
