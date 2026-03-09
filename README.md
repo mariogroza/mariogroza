@@ -3,9 +3,9 @@
 </p>
 
 ## 🎮 Hello! I'm Mario
-**CS Student @ UVT | Aspiring Game Developer**
+**CS Student @ UVT | Aspiring Game Developer & Software Engineer**
 
-> I’m a Computer Science student with a deep passion for Game Dev and Software Engineering. My journey started with a childhood curiosity about how games work, which turned into a lifelong obsession with C++ and Unity. When I'm not coding, you'll find me dancing or hanging out with my dog.
+> I am a Computer Science student with a deep passion for Game Development and Software Development. My curiosity about how video games work sparked a lifelong journey into coding. Outside of tech, I enjoy dancing, playing with my dog, and spending time with family and friends.
 
 ---
 
@@ -13,24 +13,27 @@
 
 | Category | Tools |
 | :--- | :--- |
-| **Engines** | ![Unity](https://img.shields.io/badge/-Unity-000?logo=unity) ![Unreal Engine](https://img.shields.io/badge/-Unreal-313131?logo=unrealengine) |
-| **Languages** | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) |
-| **Creative** | ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white) ![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?logo=aseprite) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop) |
+| **Engines & Frameworks** | ![Unity](https://img.shields.io/badge/-Unity-000?logo=unity) ![Unreal Engine](https://img.shields.io/badge/-Unreal-313131?logo=unrealengine) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
+| **Languages** | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) |
+| **Creative Tools** | ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white) ![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?logo=aseprite) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop) ![Premiere Pro](https://img.shields.io/badge/-Premiere-9999FF?logo=adobepremierepro&logoColor=white) |
 
 ---
 
 ### 📊 My Activity
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-main.vercel.app/api?username=mariogroza&show_icons=true&theme=shadow_green&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats-git-masterrstaa-main.vercel.app/api/top-langs/?username=mariogroza&layout=compact&theme=shadow_green&hide_border=true" width="49%" />
+</p>
 
-![Mario's Stats](https://github-readme-stats.vercel.app/api?username=mariogroza&show_icons=true&theme=shadow_green&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariogroza&theme=shadow_green&hide_border=true" width="100%" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariogroza&layout=compact&theme=shadow_green&hide_border=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mariogroza&theme=shadow_green&hide_border=true)
 ---
 
 ### 🌐 Connect with me
 <p align="center">
-<a href="https://linkedin.com/in/mario-groza-4b8054282/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mario-groza-4b8054282/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/mario.groza"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:mariogrozamario@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
