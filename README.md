@@ -17,15 +17,6 @@
 | **Languages** | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) |
 | **Creative Tools** | ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white) ![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?logo=aseprite) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop) ![Premiere Pro](https://img.shields.io/badge/-Premiere-9999FF?logo=adobepremierepro&logoColor=white) |
 
----
-
-### 📊 My GitHub Activity
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mariogroza&theme=github" alt="GitHub Contribution Graph" />
-</p>
-
----
 
 ### 🌐 Connect with me
 <p align="center">
@@ -34,6 +25,3 @@
 <a href="mailto:mariogrozamario@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mariogroza&icon=0&color=3" />
-</p>
